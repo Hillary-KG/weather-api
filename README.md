@@ -23,4 +23,4 @@ Weather RESTful API that calculates the max, min, average and median temperature
     http://127.0.0.1:8000/api/locations/{city}/?days=2
 
 ## RUN UNIT TESTS
-    - In the project folder in terminal run: python manage.py test
+    - In the project folder in terminal run: python manage.py test![Screenshot from 2022-08-27 21-35-14](https://user-images.githubusercontent.com/8200075/187044136-3251acf0-486a-4774-83b4-14e84dca8e0e.png)
