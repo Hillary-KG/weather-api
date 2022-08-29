@@ -15,7 +15,7 @@ Weather RESTful API that calculates the max, min, average and median temperature
 
 ## RUN
 
-    - Navigate to the project folder in terminal and run server --- python manage.py runserver
+    - Navigate to the project folder in terminal and run server ***python manage.py runserver***
 
 ## TEST
     - Navigate to the following url on your browser or Postman changing city to any city around the world and your preferred number of days: 
@@ -23,4 +23,4 @@ Weather RESTful API that calculates the max, min, average and median temperature
     http://127.0.0.1:8000/api/locations/{city}/?days=2
 
 ## RUN UNIT TESTS
-    - In the project folder in terminal run: python manage.py test![Screenshot from 2022-08-27 21-35-14](https://user-images.githubusercontent.com/8200075/187044136-3251acf0-486a-4774-83b4-14e84dca8e0e.png)
+    - In the project folder in terminal run: ***python manage.py test***
